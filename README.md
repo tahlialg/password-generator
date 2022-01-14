@@ -1,4 +1,4 @@
-# password-generator
+# Password Generator
 
 ## Project Background
 An application that enables employees with access to sensitive data to generate random passwords based on criteria that they’ve selected.
@@ -10,11 +10,11 @@ An application that enables employees with access to sensitive data to generate 
 - Display password in text area.
 
 ## Git Hub Repository
-The below link takes you to the repository where the portfolio is hosted.
+The link takes you to the repository where the portfolio is hosted.
 https://github.com/tahlialg/password-generator
 
 ## Deployed Application
-The below link showcases the deployed professional portfolio.
+The link showcases the deployed professional portfolio.
 https://tahlialg.github.io/password-generator/ 
 
 ![Mockup image!](password-generator-mockup.png)
