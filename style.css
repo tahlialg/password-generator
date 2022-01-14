@@ -57,7 +57,7 @@ header {
 textarea {
   height: 100px;
   width: 100%;
-	margin: 15px 0;
+  margin: 15px 0;
   text-align: center;
 }
 
@@ -80,10 +80,10 @@ textarea {
 }
 
 .setting {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	margin: 15px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0;
 }
 
 .btn {

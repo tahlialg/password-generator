@@ -35,11 +35,13 @@ generateBtn.addEventListener("click", function (event) {
   if (hasSymbol) {
     passwordCharacters.push(getRandomSymbol);
   }
-console.log(passwordCharacters)
+
   let password = "";
   for (let index = 0; index < passwordLength; index++) {
     const randomCharacter =
-    passwordCharacters[Math.floor(Math.random() * passwordCharacters.length)]();
+      passwordCharacters[
+        Math.floor(Math.random() * passwordCharacters.length)
+      ]();
     password = password + randomCharacter;
   }
 
