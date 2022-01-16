@@ -14,7 +14,7 @@ The link takes you to the repository where the portfolio is hosted.
 https://github.com/tahlialg/password-generator
 
 ## Deployed Application
-The link showcases the deployed professional portfolio.
+The link showcases the deployed password generator.
 https://tahlialg.github.io/password-generator/
 
 ![Mockup image!](password-generator-mockup.png)
